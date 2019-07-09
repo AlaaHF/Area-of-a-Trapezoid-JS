@@ -1,0 +1,24 @@
+html{
+    margin-top: 80px;
+}
+
+body{
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    padding: 30px 80px;
+    border: 5px solid gray;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2, p{
+    text-align: left;
+}
+
+
+img{
+    border: 2px solid lightgray;
+}
